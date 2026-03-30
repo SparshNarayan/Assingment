@@ -80,8 +80,6 @@ T20-Data-Analysis/
 ▶️ How to Run
 
 Clone the repository:
-
-git clone https://github.com/yourusername/DS-ASSIGNMENT-1.git
 Open the notebook in Google Colab or Jupyter Notebook
 Run all cells to reproduce results
 📌 Conclusion
